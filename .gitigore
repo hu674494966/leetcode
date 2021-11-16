@@ -1,0 +1,9 @@
+
+#Intellij idea
+.idea/
+.gradle/
+target/
+/idea/
+*.ipr
+*.iml
+*.iws
